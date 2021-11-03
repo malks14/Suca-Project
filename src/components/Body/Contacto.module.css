@@ -1,0 +1,74 @@
+.container {
+    /* height: auto; */
+    /* display: flex; */
+    /* justify-content: center;
+    flex-direction: column; */
+    width: 100%;
+}
+
+
+
+.containerpara {
+    display: flex;
+    position: absolute;
+    width: 50%;    
+    /* top: 50%; */
+    margin-top: 250px;
+    
+}
+
+p {
+    color: #fff;
+    padding-right: 14px;
+    font-family: 'Bodoni 72';
+    font-size: 10px;
+    
+    
+}
+
+.divlow {
+    margin-top: -10%;
+}
+
+a {
+    font-family: 'Bodoni 72';
+    font-size: 14px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+a:active {
+    color: white;
+}
+
+.contact {
+    font-size: 80px;
+    margin-left: 60px;
+    margin-top: -90px;
+    font-family: 'Bodoni 72 Bold';
+    color: white;
+    
+}
+
+.whi {
+    color: #fff;
+}
+
+
+.image {
+    height: 400px;
+    width: 100%;
+}
+
+.phd {
+    font-size: 20px;
+    margin-top: -70px;
+    padding-left: 10%;
+}
+
+
+.low::before {
+    content: "\a";
+    white-space: pre;
+}

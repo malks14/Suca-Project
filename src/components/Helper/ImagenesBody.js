@@ -1,0 +1,46 @@
+
+const ImagenesBody = [
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863741/Suca/fotodos_hck88w.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863738/Suca/NINAS0_yxgmvc.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863738/Suca/DETECTIVE2_lojndi.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863737/Suca/ELLASYEL_objjgc.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863736/Suca/IMG_5012_m3tt9c.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863735/Suca/YANKIENVIETNAM_kzktml.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863734/Suca/WHATIM_qmksgm.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863733/Suca/VIEJO2_f3deho.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863733/Suca/RECREO3_az9w5d.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863732/Suca/VERDULERA_upnora.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863732/Suca/RISA2_ms7uyw.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863732/Suca/TOKYO2_cauntk.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863730/Suca/QUEMIRAS2_kprj2t.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863730/Suca/IMG_4924_iibmrn.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863730/Suca/RABI_abmegg.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863730/Suca/PANADERO_mnp9li.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863729/Suca/NINAS2_owfulr.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863729/Suca/OJO_y0w0am.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863728/Suca/LASCHICAS3_ufzcol.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863728/Suca/NINA22_oe6wru.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863728/Suca/MILICO_z9guvq.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863726/Suca/IMG_4930_yvqbhn.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863726/Suca/PROTESTA_hr9qf3.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863726/Suca/LECTOR_pwlpr7.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863725/Suca/IMG_4996_eyhpfr.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863724/Suca/IMG_4888_d3dbce.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863723/Suca/SEIS_mhtqoq.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863723/Suca/SEIS_mhtqoq.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863723/Suca/foto3_sukjh3.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863723/Suca/COMPRAS_cmjuna.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863723/Suca/IMG_4874_xkbsms.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863723/Suca/foto8-1-3_ufnaaf.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863719/Suca/CHINA1_ftbhvl.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863719/Suca/AHI2_uwugkc.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863719/Suca/ALMUERZO_exil0t.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863719/Suca/AMEBA2_ljovl8.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863718/Suca/ARQUITECTO3_xptskk.jpg'},
+    {src: 'https://res.cloudinary.com/malks14/image/upload/v1635863718/Suca/bscap0007_zg5u0f.jpg'},
+    
+]
+
+
+
+export default ImagenesBody;
