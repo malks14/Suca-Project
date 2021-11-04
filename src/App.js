@@ -2,7 +2,9 @@ import React from 'react';
 
 import Home from './components/Home/Home';
 import Contacto from './components/Body/Contacto';
-import Imagenes from './components/Body/Imagenes';
+
+import ScrollToTop from './components/UI.js/ScrollToTop';
+import ImagenesModal from './components/Body/ImagenesModal';
 
 
 
@@ -16,7 +18,9 @@ function App() {
         <main>
           
           <Home />          
-          <Imagenes />
+          
+          <ImagenesModal />
+          <ScrollToTop />
         </main>
           
         <Contacto />
