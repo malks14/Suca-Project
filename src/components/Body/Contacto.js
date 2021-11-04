@@ -11,7 +11,7 @@ const Contacto = () => {
     
 
     return (
-        <div id='divCon' className={styles.container}>
+        <div id='contact' className={styles.container}>
                 <div className={styles.containerpara}>
                     <h2 className={styles.contact}>contact</h2>
                     <p className={styles.phd}>Photographer <span className={styles.low}>& Director</span></p>

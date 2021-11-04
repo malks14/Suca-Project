@@ -56,7 +56,7 @@ const ImagenesModal = () => {
 
   return (
     <>
-      <div className={modal ? "modal open" : "modal"} onClick={() => setModal(false)}>
+      <div  className={modal ? "modal open" : "modal"} onClick={() => setModal(false)}>
         <img src={tempImgSrc} alt=""/>
       </div>
 
@@ -65,6 +65,7 @@ const ImagenesModal = () => {
           return(
             
               <img 
+                id='photos'
                 onClick={() => getImg(item.imgSrc)}
                 className='imagenes'
                 key={index}

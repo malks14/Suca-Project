@@ -15,7 +15,7 @@ const Contact = () => {
         <ul>
           
             <li>
-              <a href='/'>contacto</a>
+              <a href='#contact'>contacto</a>
             </li>
         
         </ul>

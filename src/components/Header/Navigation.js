@@ -13,7 +13,7 @@ const Navigation = () => {
         <ul>
 
             <li>
-              <a href="/" >photos</a>
+              <a href="#photos" >photos</a>
             </li>
           
         </ul>
