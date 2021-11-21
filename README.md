@@ -1,3 +1,3 @@
 # Suca-Project
 
-https://ecstatic-bell-e16767.netlify.app/
+https://eager-hugle-c8a2bb.netlify.app/
